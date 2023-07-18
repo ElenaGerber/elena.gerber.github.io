@@ -22,5 +22,11 @@ header{
 }
 .page1{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
+
+img {
+    width: 500px;
+    height: auto;
+  }
+  
