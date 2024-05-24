@@ -7,26 +7,24 @@ body {
     font-family: "Montserrat";
     text-align: center;
 }
-.projectsTitle{
-    font-size: 8vh;
+.pageTitle{
     color: #cccccc;
     margin: 5vh;
     margin-bottom: 10vh;
 }
 header{
-    /*background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);*/
     background-color: #1c1b22;
     height: 7vh;
     text-align: center;
     color: #2b2a33;
 }
-.page1{
+.japanese-quizzes{
+    width: 100%;
     display: flex;
     justify-content: space-around;
 }
 
 img {
-    width: 500px;
-    height: auto;
+    width:50%;
   }
   
